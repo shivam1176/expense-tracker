@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\shiva\\downloads\\expense-tracker-app-in-asp.net-core-mvc-main\\expense-tracker-app-in-asp.net-core-mvc-main\\expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T11:32:24.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T11:32:25.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T11:32:25.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\Downloads\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T11:32:25.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
